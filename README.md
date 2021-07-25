@@ -7,4 +7,4 @@
 >- Implements libraries :
 >	- [PubSubClient](https://github.com/knolleary/pubsubclient) to communicate with an MQTT broker
 >### Blueprint
->	![shema](/doc/schema.PNG)
+>	![shema](/doc/schema.png)
